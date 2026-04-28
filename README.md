@@ -14,9 +14,9 @@ This project explores how **customer age and gender influence spending patterns 
 ---
 
 ## Analysis Questions
-**How do customer age and gender influence spending patterns across retail product categories?**
-**Which product categories show the most significant differences in spending between male and female customers across various age groups?**
-**What spending trends can be observed among different age groups within each product category?**
+- **How do customer age and gender influence spending patterns across retail product categories?**
+- **Which product categories show the most significant differences in spending between male and female customers across various age groups?**
+- **What spending trends can be observed among different age groups within each product category?**
 
 ## Benefit from the Analysis Questions
 - This helps the marketing team to create targeted advertisements. for example if the data shows that men aged 25-30 spend most on Electronics, the company can allocate more of its budget on social media ads for specific group"
